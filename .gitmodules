@@ -1,0 +1,6 @@
+[submodule "wanderlust-frontend"]
+	path = wanderlust-frontend
+	url = https://github.com/Abhii-07/wanderlust-frontend.git
+[submodule "wanderlust-api"]
+	path = wanderlust-api
+	url = https://github.com/Abhii-07/wanderlust-api.git
